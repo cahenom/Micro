@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"guessedImports":["qrcode-terminal","steno","mongoose","chalk","node-cron","moment-timezone","@hapi/boom","openai","lowdb","pino","axios","yargs","lodash","@adiwajshing/baileys"],"guessedImportsHash":"63ef6cc0315975d80d617217a1ea28b1"}}}

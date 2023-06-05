@@ -1,0 +1,39 @@
+{
+  "name": "WA-bot-ChatGPT-3-5-Turbo",
+  "version": "1.0.0",
+  "description": "WhatsApp bot ChatGPT 3.5 Turbo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danidev196453/WA-bot-ChatGPT-3-5-Turbo.git"
+  },
+  "keywords": [
+    "Bot",
+    "WhatsApp",
+    "Chat",
+    "GPT"
+  ],
+  "author": "Dani Dev.",
+  "email": "contact@danidev.eu.org",
+  "whatsapp": "6289512545999",
+  "github": "danidev196453",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.2.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "qrcode-terminal": "^0.12.0",
+    "chalk": "^4.1.2",
+    "pino": "^7.0.5",
+    "yargs": "^17.2.1",
+    "lowdb": "^2.1.0",
+    "mongoose": "^6.2.1",
+    "lodash": "^4.17.21",
+    "node-cron": "^3.0.0",
+    "moment-timezone": "^0.5.34",
+    "axios": "^1.3.4",
+    "openai": "^3.2.1"
+  }
+}

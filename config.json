@@ -1,0 +1,13 @@
+{
+  "sessionName": "session",
+  "publicMode": true,
+  "botName": "MicroBot",
+  "ownerName": "Sam",
+  "ownerNumber": ["6285788532344"],
+  "premiumNumber": ["6285788532344","6288217237735"],
+  "openAIAPIKeys": "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",
+  "limitFree": 20,
+  "limitPremium": "unlimited",
+  "messageWait": "Tunggu Sebentar ...",
+  "messageLimitExpired": "Batas harian habis\nUpgrade premium akses tanpa batas hanya Rp. 10.000 untuk 1 bulan\nHelp : wa.me/+6285788532344\nUpgrade : https://saweria.co/MicroBO"
+}
